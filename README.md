@@ -1,2 +1,3 @@
 # Machine-Learning-Example
-The algorithm of Machine-Learning's example
+
+This repo is used to store Machine Learning's algorithm templates.
